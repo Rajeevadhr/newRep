@@ -2,11 +2,6 @@
 
 I am Rajeeva Ravindranath Dharmadasa
 This is new line for testing
-<<<<<<< HEAD
-<<<<<<< HEAD
 this is a small change
-=======
->>>>>>> 1533393... left only two lines
-=======
->>>>>>> 1533393... left only two lines
+
 
