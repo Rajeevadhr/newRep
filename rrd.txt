@@ -1,14 +1,5 @@
 
 
-sample text
-sample text 2
-
-
-my new line
-
-I am Rajeeva Ravindranath Dharmadasa
-
-this is a small change
-another line
+line no 1
 
 
